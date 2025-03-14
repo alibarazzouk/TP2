@@ -105,5 +105,5 @@ void Affichagemodule(modules mod1){
 }
 }
 ```
-## Note
-Ceci est le travail que j'ai pu faire , pour les autre questions je trouve des difficultes mais je vais essayer.
+
+
